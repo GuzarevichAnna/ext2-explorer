@@ -1,2 +1,4 @@
 # ext2-explorer
-SPBU Operating Systems course task
+Compile utilities: make
+Run tests under valgrind: make test
+Clear artifacts: make clean
